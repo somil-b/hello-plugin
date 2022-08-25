@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.somilb.helloplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.somilb.helloplugin.MyBundle
 
 class MyApplicationService {
 
